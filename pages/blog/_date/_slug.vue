@@ -6,7 +6,6 @@
         <v-img
           :src="imgSrc"
           max-height="500px"
-          min-width="590px"
           cover
           style="float: center;"
           class="mb-5"
