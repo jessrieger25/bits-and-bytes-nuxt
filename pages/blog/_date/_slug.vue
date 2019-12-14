@@ -3,16 +3,10 @@
     <v-container>
       <h1 class="postTitle">{{ post.attributes.title }}</h1>
       <div class="postPic">
-        <v-img
-          :src="imgSrc"
-          max-height="500px"
-          cover
-          style="float: center;"
-          class="mb-5"
-        ></v-img>
+        <v-img :src="imgSrc" cover style="float: center;" class="mb-5"></v-img>
       </div>
       <!-- eslint-disable-next-line -->
-      <div class="content myPost" v-html="post.html" />
+      <div class="myPost" v-html="post.html" />
     </v-container>
   </v-content>
 </template>
@@ -20,15 +14,21 @@
 <style>
 .myPost {
   padding: 0;
+  display: inline;
+}
+.cred {
+  font-size: 10px;
+  font-weight: 100px;
 }
 .postTitle {
   text-align: center;
 }
 .postPic {
-  display: block;
+  display: inline-block;
+  float: left;
   margin-left: auto;
-  margin-right: auto;
-  width: 50%;
+  margin-right: 20px;
+  width: 25%;
 }
 .ingredients .instructions {
   text-align: left;

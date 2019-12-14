@@ -1,11 +1,12 @@
 <template>
-  <v-card class>
-    <v-img :src="imgSrc(preview)" height="300px" cover></v-img>
-    <v-card-title>{{ preview.attributes.title }}</v-card-title>
-    <v-card-text>{{ preview.attributes.excerpt }}</v-card-text>
-    <v-card-actions>
-      <v-btn :to="preview._path" nuxt>Read More ...</v-btn>
-    </v-card-actions>
+  <v-card :to="preview._path" nuxt>
+    <v-img :src="imgSrc(preview)" height="200px" cover></v-img>
+    <v-card-title class="preview_title">{{
+      preview.attributes.title
+    }}</v-card-title>
+    <v-card-text class="preview_text">{{
+      preview.attributes.excerpt
+    }}</v-card-text>
   </v-card>
 </template>
 
@@ -26,4 +27,11 @@ export default {
 }
 </script>
 
-<style scoped></style>
+<style scoped>
+.preview_title {
+  font-size: 1em;
+}
+.preview_text {
+  height: 60px;
+}
+</style>

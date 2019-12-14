@@ -1,7 +1,7 @@
 <template>
   <v-content>
     <h1 class="pt-6">New Releases</h1>
-    <v-container grid-list-md fluid>
+    <v-container grid-list-md fluid class="px-2">
       <v-row
         :class="{
           'mx-5': $vuetify.breakpoint.mdAndUp,
@@ -11,7 +11,7 @@
         <v-col
           v-for="post in this.posts"
           :key="post.id"
-          :md="4"
+          :md="3"
           :sm="12"
           :xs="12"
           class
