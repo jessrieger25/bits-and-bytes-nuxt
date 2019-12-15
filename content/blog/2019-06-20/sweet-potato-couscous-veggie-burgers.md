@@ -2,7 +2,7 @@
 title: Sweet Potato, Couscous Burger
 tags: dinner, vegetarian
 date: 2019-06-20
-excerpt: The Light Veggie Burgers You've Been Craving
+excerpt: The light veggie burgers you've been craving
 hero: sweet-potato-couscous-burger.jpg
 ---
 <div>

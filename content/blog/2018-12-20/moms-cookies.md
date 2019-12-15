@@ -6,9 +6,9 @@ excerpt: Baked best in winter - but summer will do
 hero: moms-cookies.png
 ---
 <div>
-If you have ever come in contact with my family, I am almost certain that you have tried one of my mother's famous Chocolate Chip Cookies.  For years I have wanted to help her make them, but she would never let me, because as she claims, '(she) has a system.'  However the other day, she finally let me help, so now I can attempt to give you one of my favorite chocolate chip cookie recipes of all time.
+If you have ever come in contact with my family, I am almost certain that you have tried one of my mother's famous Chocolate Chip Cookies.  For years I have wanted to help her make them, but she would never let me because, as she claims, '(she) has a system.'  However the other day, she finally let me help, so now I can attempt to give you one of my favorite chocolate chip cookie recipes of all time.
 
-Before continuing, I warn you, these cookies are very hard to master.  Several people have tried to make them exactly as my mother does, but none have really nailed them. I don't know what it is, whether its our oven, or simply the way she mixes them, but there is something magical about her touch that makes them utterly delicious in a way no one else's are.
+Before continuing, I warn you, these cookies are very hard to master.  Several people have tried to make them exactly as my mother does, but none have really nailed them. I don't know what it is, whether it's our oven, or simply the way she mixes them, but there is something magical about her touch that makes them utterly delicious in a way no one else's are.
 
 This recipe is certainly not one of the easiest, so you will just have to bear with me as I try my best to explain to you what exactly you must do. As well, you should note, that there are 2 different versions of this recipe; one for summer and one for winter.  Though it may sound crazy, my mother swears it makes a difference.  Below, I have attached only the summer recipe.  Lastly, for this recipe you really must use a baking stone.  You could try it on an oiled baking sheet, but there is just something about a stone that makes the cookies turn out best.
 

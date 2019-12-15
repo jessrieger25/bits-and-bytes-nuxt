@@ -1,7 +1,7 @@
 <template>
   <!-- <nav> -->
   <v-app-bar app dark color="blue">
-    <v-app-bar-nav-icon @click="drawer = !drawer"></v-app-bar-nav-icon>
+    <!-- <v-app-bar-nav-icon @click="drawer = !drawer"></v-app-bar-nav-icon> -->
 
     <v-toolbar-title class="headline text-uppercase">
       <span>Bits and Bytes</span>

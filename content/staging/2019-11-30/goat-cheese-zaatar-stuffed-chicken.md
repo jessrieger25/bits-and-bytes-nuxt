@@ -16,7 +16,7 @@ Some tips for this recipe are as follows. First, When the chicken is stuffed and
 Good luck, and enjoy!
 
 <div class="list-row">
-    <div class="list-column-1">
+    <div class="list-column">
        <div class="list-card ingredients">
         <h3>Ingredients</h3>
           <ul>
@@ -34,7 +34,7 @@ Good luck, and enjoy!
           </ul>
         </div>
     </div>
-    <div class="list-column-2">
+    <div class="list-column">
        <div class="list-card instructions">
         <h3>Instructions</h3>
           <ul>

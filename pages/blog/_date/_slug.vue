@@ -47,14 +47,6 @@
   padding: 10px;
   background-color: #f1f1f1;
 }
-/* Responsive columns - one column layout (vertical) on small screens */
-@media screen and (max-width: 600px) {
-  .list-column {
-    width: 100%;
-    display: block;
-    margin-bottom: 20px;
-  }
-}
 /* Float four columns side by side */
 .list-column-1 {
   float: left;
@@ -63,6 +55,19 @@
 .list-column-2 {
   float: left;
   width: 75%;
+}
+/* Responsive columns - one column layout (vertical) on small screens */
+@media screen and (max-width: 600px) {
+  .list-column-1 {
+    width: 100%;
+    display: block;
+    margin-bottom: 20px;
+  }
+  .list-column-2 {
+    width: 100%;
+    display: block;
+    margin-bottom: 20px;
+  }
 }
 /* Remove extra left and right margins, due to padding in columns */
 .list-row {
