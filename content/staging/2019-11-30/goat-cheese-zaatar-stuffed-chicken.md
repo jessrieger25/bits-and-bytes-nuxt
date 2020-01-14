@@ -22,13 +22,14 @@ Good luck, and enjoy!
           <ul>
             <li>1 T Za'atar</li>
             <li>Zest of 2 lemons</li>
-            <li>Juice of 1 lemon</li>
-            <li>2 Tbsp Butter</li>
+            <li>Juice of 1 1/2 lemons</li>
+            <li>4 Tbsp Butter</li>
+            <li>1/4 Cup White Wine</li>
             <li>2 Tbsp Garlic</li>
             <li>Salt and Pepper</li>
             <li>4 Chicken Breasts Skin on</li>
             <li>1 Egg</li>
-            <li>2 Tbsp Minced Parsley</li>
+            <li>2 Tbsp Minced Parsley (plus a bit extra for topping)</li>
             <li>1 Shallot</li>
             <li>8 oz Goat Cheese</li>
           </ul>
@@ -46,7 +47,8 @@ Good luck, and enjoy!
             <li>Place the chicken breasts in the skillet skin side down and cook until the skin turns golden brown, usually about 10 min.</li>
             <li>If your skillet is oven-proof, flip the breasts, place the skillet in the oven, and bake for an additional 8 to 10 minutes or until the chicken reaches 165 degrees F. If your skillet is not oven proof, flip the chicken breasts and place them into a casserole dish and bake.</li>
             <li>Once the chicken is cooked, remove from the oven and reheat the skillet on low heat. If you baked the chicken in a casserole dish, replace the chicken in the skillet.</li>
-            <li>SAUCE RECIPE TBD</li>
+            <li>Remove the chicken from the oven and place on the stove at medium-low heat.</li>
+            <li>Add the remaining lemon juice, the butter and white wine to the skillet and allow to simmer for 2 - 3 min. Once finished, plate the chicken and drizzle the sauce on top and sprinkle with a tad of fresh lemon juice if you wish.</li>
         </ul>
        </div>
     </div>

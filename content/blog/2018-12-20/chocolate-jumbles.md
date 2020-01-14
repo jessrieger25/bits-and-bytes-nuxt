@@ -35,7 +35,7 @@ Anyway, I know you won't be dissappointed if you give these cookies a try becaus
     </div>
     <div class="list-column-2">
        <div class="list-card instructions">
-        <h3>Instructions</h3>
+        <h3>Cookie Instructions</h3>
           <ul>
           <li>Boil a small saucepan of water.</li>
           <li>Combine the chocolate (chopped) and the shortening in a metal mixing bowl with a round bottom.</li>
@@ -50,6 +50,30 @@ Anyway, I know you won't be dissappointed if you give these cookies a try becaus
           <li>Finally, place the cookies on a baking sheet and bake until puffy.  It should be about 7-10 min.  Be mindful that the cookies will harden as they cool so they should not be hard when you take them out.</li>
           <li>Make the frosting according to the recipe below.</li>
           <li>Once the cookies have cooled, frost them.</li>
+        </ul>
+       </div>
+    </div>
+</div>
+<hr>
+<div class="list-row">
+    <div class="list-column-1">
+       <div class="list-card ingredients">
+        <h3>Ingredients</h3>
+          <ul>
+            <li>3 Cups Confectioner's Sugar</li>
+            <li>3 Tablespoons Whole Milk</li>
+            <li>1/2 Tsp Vanilla</li>
+            <li>1/3 Cup Softened Butter</li>
+          </ul>
+        </div>
+    </div>
+    <div class="list-column-2">
+       <div class="list-card instructions">
+        <h3>Frosting Instructions</h3>
+          <ul>
+          <li>Beat butter in a mixing bowl until it resembles frosting (it is smooth and spread on the bottom of the bowl.)</li>
+          <li>Add the milk, confectioners, and vanilla to the bowl and beat, slowly at first (to avoid getting confectioners all over the kitchen) and then faster until frosting is completely combined. At this stage it should resemble cream cheese frosting in texture.</li>
+          <li>Frost the cookies.</li>
         </ul>
        </div>
     </div>

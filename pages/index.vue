@@ -42,7 +42,6 @@ export default {
       ...context(key),
       _path: `/blog/${key.replace('.md', '').replace('./', '')}`
     }))
-    console.log(posts)
     return { posts: posts.reverse() }
   },
   methods: {

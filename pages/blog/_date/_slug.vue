@@ -30,6 +30,14 @@
   margin-right: 20px;
   width: 25%;
 }
+@media screen and (max-width: 600px) {
+  .postPic {
+    width: 100%;
+    display: block;
+    margin-left: auto;
+    margin-right: 20px;
+  }
+}
 .ingredients .instructions {
   text-align: left;
 }
@@ -84,6 +92,10 @@
 * {
   box-sizing: border-box;
 }
+hr {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
 </style>
 
 <script>
@@ -104,11 +116,6 @@ export default {
     } catch (error) {
       console.log(error)
       return false
-    }
-  },
-  head() {
-    return {
-      title: this.post.attributes.title
     }
   }
 }

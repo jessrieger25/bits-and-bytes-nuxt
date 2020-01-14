@@ -14,7 +14,11 @@
   },
   "dependencies": {
     "frontmatter-markdown-loader": "^2.1.0",
-    "nuxt": "^2.0.0"
+    "nuxt": "^2.0.0",
+    "vue": "^2.6.11",
+    "vue-moment": "^4.1.0",
+    "vue-template-compiler": "^2.6.11",
+    "vuetify": "^2.2.3"
   },
   "devDependencies": {
     "@nuxtjs/vuetify": "^1.0.0",
