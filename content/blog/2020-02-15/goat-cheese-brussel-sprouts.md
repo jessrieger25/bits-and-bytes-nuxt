@@ -1,7 +1,7 @@
 ---
-title: Goat Cheese Stuffed, Bacon Wrapped Brussel Sprouts
+title: Goat Cheese Brussel Sprouts
 tags: appetizer
-date: 2020-01-14
+date: 2020-02-15
 excerpt: Salty, sweet, savory
 hero: goat-cheese-stuffed-bacon-wrapped-brussel-sprouts-w-blueberry-sauce.jpeg
 ---
@@ -20,7 +20,7 @@ Enjoy!
 <p class="cred"> Brussel Sprouts Recipe: https://whitneymiller.com/recipe/bacon-wrapped-stuffed-brussel-sprouts/</p>
 
 <div class="list-row">
-    <div class="list-column">
+    <div class="list-column-1">
        <div class="list-card ingredients">
         <h3>Ingredients</h3>
           <ul>
@@ -38,7 +38,7 @@ Enjoy!
           </ul>
         </div>
     </div>
-    <div class="list-column">
+    <div class="list-column-2">
        <div class="list-card instructions">
         <h3>Ingredients</h3>
           <ul>
@@ -57,7 +57,7 @@ Enjoy!
           </ul>
         </div>
     </div>
-    <div class="list-column-2">
+    <div class="list-column-1">
        <div class="list-card instructions">
         <h3>Instructions</h3>
           <ul>
