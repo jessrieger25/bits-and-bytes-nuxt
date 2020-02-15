@@ -64,6 +64,10 @@
   float: left;
   width: 75%;
 }
+.list-column-half {
+  float: left;
+  width: 50%;
+}
 /* Responsive columns - one column layout (vertical) on small screens */
 @media screen and (max-width: 600px) {
   .list-column-1 {
@@ -72,6 +76,11 @@
     margin-bottom: 20px;
   }
   .list-column-2 {
+    width: 100%;
+    display: block;
+    margin-bottom: 20px;
+  }
+  .list-column-half {
     width: 100%;
     display: block;
     margin-bottom: 20px;
