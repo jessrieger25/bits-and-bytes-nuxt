@@ -1,8 +1,8 @@
 <template>
   <v-app-bar app dark color="blue">
     <v-app-bar-nav-icon @click="drawer = !drawer"></v-app-bar-nav-icon>
-    <v-navigation-drawer v-model="drawer" dark app>
-      <v-list nav dark>
+    <v-navigation-drawer v-model="drawer" app dark absolute bottom temporary>
+      <v-list dark>
         <v-list-item-group v-model="model">
           <v-list-item
             v-for="(item, i) in navItems"

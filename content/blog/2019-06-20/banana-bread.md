@@ -21,7 +21,6 @@ I hope you enjoy this recipe as much as I do, and don't get frustrated if it doe
             <li>1/2 cup Neutral Oil</li>
             <li>1 tsp Baking soda</li>
             <li>2 Large Eggs</li>
-            <li>8 oz. Plain goat cheese</li>
             <li>1/4 cup and a 1 T Buttermilk</li>
             <li>1 1/2 cups Granulated Sugar</li>
             <li>1 tsp Vanilla Extract</li>
