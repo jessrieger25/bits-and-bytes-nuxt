@@ -46,6 +46,10 @@ Nevertheless, from the parents and grandmother's (admittedly biased) reactions, 
           <li>
             Once baked, carefully remove the dishes from the pan    using a metal spatula or tongs (and on oven mitt for support) and set them on a cooling rack. Let the custards cool to room temperature. Then loosely cover and refrigerate overnight.
           </li>
+          <li>When ready to serve, top all the custards with about 1.5 teaspoons of parmesan. Then cover the parmesan with 2 tsps granulated sugar (or enough to coat the surface).</li>
+          <li>Then use a blow torch to melt the top until it forms a solid layer and is a nice golden brown. You can also use the broiler BUT you must watch each custard like a hawk as they burn extremly fast.</li>
+          <li>Serve with a spoonful of the topping mixture on each.</li>
+          <li>Enjoy!</li>
        </div>
     </div>
 </div>
