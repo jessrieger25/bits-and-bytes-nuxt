@@ -13,6 +13,7 @@
     "test": "jest"
   },
   "dependencies": {
+    "@nuxt/content": "^1.11.1",
     "frontmatter-markdown-loader": "^2.1.0",
     "nuxt": "^2.14.7",
     "vue": "^2.6.12",

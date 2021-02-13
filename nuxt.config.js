@@ -1,9 +1,8 @@
-import colors from 'vuetify/es5/util/colors'
-const path = require('path')
-const glob = require('glob')
+import path from 'path'
 
 export default {
   mode: 'spa',
+  components: true,
   /*
    ** Headers of the page
    */
@@ -44,7 +43,7 @@ export default {
   /*
    ** Nuxt.js modules
    */
-  modules: [],
+  modules: ['@nuxt/content'],
   /*
    ** vuetify module configuration
    ** https://github.com/nuxt-community/vuetify-module

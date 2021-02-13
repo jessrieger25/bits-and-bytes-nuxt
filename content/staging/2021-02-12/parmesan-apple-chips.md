@@ -1,19 +1,25 @@
 ---
-title: Expresso Parmesan Creme Brulée
-tags: dessert
-date: 2020-11-01
-excerpt: Unexpected but delightful
-hero: roasted-veggie-chipotle-salad.jpeg
+title: Parmesan Apple Chips
+tags: snack
+date: 2021-02-12
+excerpt: Crunch, Chew, Yum
+hero: parmesan-apple-chips.jpeg
 ---
 
-As some of you may know, interesting flavor combos are my favortie things to test out. I love to play with the different ways of using the ingredients and see what I can come up with. So here goes my latest one, Parmesan and Coffee.
+<v-img src="parmesan-apple-chips.jpeg" alt="parmesan apple chips" />
+Are you a fan of Cheez-Its? Do you ever wish there were another flavor to 
+counter some of that monotonous constant cheese/salt flavor? Well then its likely
+you will enjoy these parmesan apple chips. They are crunchy and munchable, making them a 
+great snack, and they have the perfect fruity tang to complement the cheese. Admittedly, they
+are a bit more work then opening a box of crackers, but in my opinion, they are worth it.
 
-Initially, not the easiest flavor combo to use I will admit. The trickiest part was that many of the usages of coffee are sweet and those of parmesan are savory, so finding the middle ground was interesting. In my initial brainstorm I had options on both sides of the aisle, but the one that intrigued me most was the creme brulée. Mind you, prior to this endeavor I had never made a creme brulée before, so that alone was putting this idea in danger of failing.
-
-Nevertheless, from the parents and grandmother's (admittedly biased) reactions, I think it turned out alright. The creme brulée provides the sweet base with aromatic and almost bitter notes from the espresso powder. When topped with the parmesan, the salty sharp tang comes through to round out the otherwise light flavors and the salt it provides enhances all the notes present.
+During the development of this recipe I played around with many different flavor toppings, namely
+cheddar, allspice, ground ginger, maple syrup, cinnamon, etc. But in the end, the parmesan was my favorite.
+However, if you decide to play around with your own toppings, I would love to hear about it!
 
 <p class="cred"> </p>
 
+<v-row>
 <div class="list-row">
     <div class="list-column-1">
        <div class="list-card ingredients">
@@ -24,7 +30,7 @@ Nevertheless, from the parents and grandmother's (admittedly biased) reactions, 
             <li>1/4 cup granulated sugar, plus more for caramelizing</li>
             <li>Pinch sea salt or kosher salt</li>
             <li>4 large egg yolks</li>
-            <li>1 tablespoon instant espresso or coffee powder* (see What You Need To Know About Using Instant Coffee Or Espresso below)</li>
+            <li>1 tablespoon instant espresso or coffee powder</li>
             <li>2 teaspoons Kahlúa or other coffee-flavored liqueur</li>
           </ul>
         </div>
@@ -53,6 +59,8 @@ Nevertheless, from the parents and grandmother's (admittedly biased) reactions, 
        </div>
     </div>
 </div>
+</v-row>
+<v-row>
 <div class="list-row">
     <div class="list-column-1">
        <div class="list-card ingredients">
@@ -79,3 +87,4 @@ Nevertheless, from the parents and grandmother's (admittedly biased) reactions, 
        </div>
     </div>
 </div>
+</v-row>
