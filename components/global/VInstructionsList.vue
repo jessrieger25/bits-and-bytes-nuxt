@@ -31,7 +31,7 @@ export default {
   },
   methods: {
     loadInstructions() {
-      return require('../../content/blog/2021-01-06/info.json')[this.jsonKey]
+      return require(`../../content/blog/${this.filePath}`)[this.jsonKey]
     }
   }
 }

@@ -6,6 +6,9 @@ excerpt: Sick of raspberry jam, try ground cherry jam
 hero: ground-cherry-jam.jpg
 ---
 
+<v-row>
+<v-col>
+<v-img-custom src="ground-cherry-jam.jpg" alt="ground cherry jam" class="hero-img"> </v-img-custom>
 Before my adventures at the farmer's market in Syracuse, I had never heard
 of, much less tried, a ground cherry. What is more, if it were not for some random man pulling me over to a stand at the market and telling me to try one, I probably would have never picked one up.
 
@@ -15,27 +18,13 @@ In terms of the actual recipe, I have written it according to my preference, how
 
 Enjoy!
 
-<div class="list-row">
-    <div class="list-column-1">
-       <div class="list-card ingredients">
-        <h3>Ingredients</h3>
-          <ul>
-            <li>1 Cup Ground Cherries, husks removed</li>
-            <li>1-2 T Lemon Juice</li>
-            <li>White Sugar (if desired)</li>
-          </ul>
-        </div>
-    </div>
-    <div class="list-column-2">
-       <div class="list-card instructions">
-        <h3>Instructions</h3>
-          <ul>
-          <li>Place ground cherries and lemon juice in a medium sauce pan.</li>
-          <li>Cover and simmer on low for 5 minutes.</li>
-          <li>Uncover and smash the ground cherries to release their juice.</li>
-          <li>Replace cover and simmer for an additional 15 - 20 minutes, or until jam is at desired thickness.</li>
-          <li>Remove from heat and store in the fridge until use.</li>
-        </ul>
-       </div>
-    </div>
-</div>
+</v-col>
+</v-row>
+<v-row>
+  <v-col lg="3" sm="12">
+    <v-ingredients-list title="Ingredients" file-path="2019-11-23/ground-cherry-info.json" json-key="ingredients"> </v-ingredients-list>
+  </v-col>
+  <v-col lg="9" sm="12">
+    <v-instructions-list title="Instructions" file-path="2019-11-23/ground-cherry-info.json" json-key="instructions"> </v-instructions-list>
+  </v-col>
+</v-row>

@@ -21,7 +21,13 @@
   </v-content>
 </template>
 
-<style></style>
+<style>
+.hero-img {
+  float: left;
+  margin-right: 20px;
+  height: 300;
+}
+</style>
 
 <script>
 export default {
