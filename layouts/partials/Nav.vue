@@ -33,7 +33,7 @@ export default {
     model: 1,
     navItems: [
       { title: 'Recipes', active: true, path: '/' },
-      { title: 'Reviews', active: false, path: '/reviews' },
+      // { title: 'Reviews', active: false, path: '/reviews' },
       { title: 'Who am I?', active: true, path: '/about' }
     ]
   })
