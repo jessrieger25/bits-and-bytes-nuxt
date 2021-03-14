@@ -19,10 +19,9 @@
     </v-navigation-drawer>
 
     <v-toolbar-title class="headline text-uppercase">
-      <span>Bits and Bytes</span>
+      <NuxtLink to="/" class="nav-link-active">Bits and Bytes</NuxtLink>
     </v-toolbar-title>
     <v-spacer></v-spacer>
-    <v-btn color="deep-purple" to="/" nuxt>Home</v-btn>
   </v-app-bar>
 </template>
 
@@ -40,3 +39,10 @@ export default {
   })
 }
 </script>
+
+<style scoped>
+.nav-link-active {
+  color: #ffffff;
+  text-decoration: none;
+}
+</style>

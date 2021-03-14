@@ -28,14 +28,14 @@ Enjoy!
 </v-row>
 <v-row>
   <v-col lg="6" sm="12">
-    <v-ingredients-list title=" Sauce Ingredients" file-path="2021-01-06/info.json" json-key="ingredients"> </v-ingredients-list>
+    <v-ingredients-list title=" Sauce Ingredients" file-path="2020-02-15/goat-cheese-brussel-sprouts-info.json" json-key="ingredients"> </v-ingredients-list>
   </v-col>
   <v-col lg="6" sm="12">
-    <v-ingredients-list title="Other Ingredients" file-path="2021-01-06/info.json" json-key="ingredients"> </v-ingredients-list>
+    <v-ingredients-list title="Other Ingredients" file-path="2020-02-15/goat-cheese-brussel-sprouts-info.json" json-key="ingredients"> </v-ingredients-list>
   </v-col>
 </v-row>
 <v-row>
   <v-col lg="9" sm="12">
-    <v-instructions-list title="Instructions" file-path="2021-01-06/info.json" json-key="instructions"> </v-instructions-list>
+    <v-instructions-list title="Instructions" file-path="2020-02-15/goat-cheese-brussel-sprouts-info.json" json-key="instructions"> </v-instructions-list>
   </v-col>
 </v-row>

@@ -8,7 +8,7 @@ hero: warm-apple-cabbage-bacon-salad.jpg
 
 <v-row>
 <v-col>
-<v-img-custom src="" alt="" class="hero-img"> </v-img-custom>
+<v-img-custom src="warm-apple-cabbage-bacon-salad.jpg" alt="warm-apple-cabbage-bacon-salad" class="hero-img"> </v-img-custom>
 
 The dishes that come out of Joy Joy's (my grandma) kitchen have always been fascinating
 to me. They combine ingredients in unusual ways that, (for the most part) are unexpectedly delicious. Though I would like to say she thoroughly plans out the ingredients and the balance of flavors, this is certainly not the case. More often, she simply looks into her fridge, sees what is there, and then starts to cook. This recipe is a result of that very technique, and without her creative brain I would not be able to share it with you, so thanks Joy Joy.

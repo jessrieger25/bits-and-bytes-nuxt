@@ -25,7 +25,7 @@
 .hero-img {
   float: left;
   margin-right: 20px;
-  height: 300;
+  height: 300px;
 }
 </style>
 
