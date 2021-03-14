@@ -19,9 +19,9 @@ I hope you enjoy this recipe as much as I do, and don't get frustrated if it doe
 </v-row>
 <v-row>
 <v-col lg="3" sm="12">
-<v-ingredients-list title="Creme Brulée Ingredients" file-path="2018-12-20/cookie-info.json" json-key="ingredients"> </v-ingredients-list>
+<v-ingredients-list title="Creme Brulée Ingredients" file-path="2019-06-20/banana-bread-info.json" json-key="ingredients"> </v-ingredients-list>
 </v-col>
 <v-col lg="9" sm="12">
-<v-instructions-list title="Instructions" file-path="2018-12-20/cookie-info.json" json-key="instructions"> </v-instructions-list>
+<v-instructions-list title="Instructions" file-path="2019-06-20/banana-bread-info.json" json-key="instructions"> </v-instructions-list>
 </v-col>
 </v-row>

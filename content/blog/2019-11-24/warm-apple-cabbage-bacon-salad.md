@@ -25,9 +25,9 @@ Anyway, good luck and bon appetit!
 </v-row>
 <v-row>
   <v-col lg="3" sm="12">
-    <v-ingredients-list title="Ingredients" file-path="2021-01-06/info.json" json-key="ingredients"> </v-ingredients-list>
+    <v-ingredients-list title="Ingredients" file-path="2019-11-24/warm-apple-cabbage-bacon-salad-info.json" json-key="ingredients"> </v-ingredients-list>
   </v-col>
   <v-col lg="9" sm="12">
-    <v-instructions-list title="Instructions" file-path="2021-01-06/info.json" json-key="instructions"> </v-instructions-list>
+    <v-instructions-list title="Instructions" file-path="2019-11-24/warm-apple-cabbage-bacon-salad-info.json" json-key="instructions"> </v-instructions-list>
   </v-col>
 </v-row>
