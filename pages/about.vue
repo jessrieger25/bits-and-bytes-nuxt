@@ -1,11 +1,19 @@
 <template>
   <v-content>
     <h1 class="pt-6">About Me</h1>
+
     <v-container grid-list-md fluid class="px-2">
+      <v-img-custom
+        src="profile-pic.png"
+        class="hero-img profile-pic"
+        height="200px"
+      >
+      </v-img-custom>
+
       <h3>Subscribe</h3>
       <p>
-        Before you hear me go on and on about my beginnings as a blogger, what I
-        am doing now and why, please feel free to email me at
+        Before you hear me (Jess Rieger) go on and on about my beginnings as a
+        blogger, what I am doing now and why, please feel free to email me at
         <a href="mailto:thegourmetcollegechef@gmail.com">
           thegourmetcollegechef@gmail.com
         </a>
