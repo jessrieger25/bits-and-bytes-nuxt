@@ -1,10 +1,10 @@
-# bits-and-bytes
+# Bits and Bytes
 
-> nuxt version of the blog
+> A food blog filled with fun flavor combinations and helpful recipe tips!
 
 ## Build Setup
 
-``` bash
+```bash
 # install dependencies
 $ npm run install
 
