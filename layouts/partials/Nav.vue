@@ -34,7 +34,8 @@ export default {
     navItems: [
       { title: 'Recipes', active: true, path: '/' },
       // { title: 'Reviews', active: false, path: '/reviews' },
-      { title: 'Who am I?', active: true, path: '/about' }
+      { title: 'Who am I?', active: true, path: '/about' },
+      { title: 'Subscribe', active: true, path: '/subscribe' }
     ]
   })
 }
