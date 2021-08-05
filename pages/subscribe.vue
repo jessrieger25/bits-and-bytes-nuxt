@@ -1,25 +1,41 @@
 <template>
-  <form
-    name="contactus"
-    action="/thanks"
-    method="post"
-    netlify
-    netlify-honeypot="bot-field"
-  >
-    // Hidden input to check for bots
-    <input type="hidden" name="form-name" value="contactus" />
-    <div>
-      <label for="name">Name:</label>
-      <input type="text" name="name" required />
-    </div>
-    <div>
-      <input type="email" name="email" required />
-      <label for="email">Email:</label>
-    </div>
-    <div>
-      <textarea name="message" required></textarea>
-      <label for="message">Message:</label>
-    </div>
-    <button type="submit" value="Send message">Send</button>
-  </form>
+  <v-content>
+    <v-container>
+      <h1>Subscribe Now!</h1>
+      <p>
+        Enter your contact info to receive monthly newsletters and alerts when
+        new recipes are posted!
+      </p>
+      <form
+        name="contactus"
+        action="/thanks"
+        method="post"
+        netlify
+        netlify-honeypot="bot-field"
+      >
+        <v-row>
+          <v-col lg="3" md="3" sm="12">
+            <v-text-field type="text" name="name" required label="Name" />
+          </v-col>
+        </v-row>
+        <v-row>
+          <v-col lg="3" md="3" sm="12">
+            <v-text-field type="email" name="email" required label="Email" />
+          </v-col>
+        </v-row>
+        <v-row>
+          <v-col lg="3" md="3" sm="12">
+            <v-textarea
+              outlined
+              name="message"
+              required
+              label="Message"
+            ></v-textarea>
+          </v-col>
+        </v-row>
+        <v-btn type="submit" value="Send message" color="primary">Send</v-btn>
+        <v-input type="hidden" name="form-name" value="contactus" />
+      </form>
+    </v-container>
+  </v-content>
 </template>
