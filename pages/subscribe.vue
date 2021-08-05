@@ -8,8 +8,8 @@
       </p>
       <form
         name="contactus"
-        action="/thanks"
-        method="post"
+        action="/"
+        method="POST"
         netlify
         netlify-honeypot="bot-field"
       >
@@ -34,7 +34,7 @@
           </v-col>
         </v-row>
         <v-btn type="submit" value="Send message" color="primary">Send</v-btn>
-        <v-input type="hidden" name="form-name" value="contactus" />
+        <input type="hidden" name="form-name" value="contactus" />
       </form>
     </v-container>
   </v-content>
