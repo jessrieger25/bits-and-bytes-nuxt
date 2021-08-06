@@ -8,10 +8,9 @@
       </p>
       <form
         name="contactus"
-        action="/"
-        method="POST"
         netlify
         netlify-honeypot="bot-field"
+        @submit.prevent="handleSubmit"
       >
         <v-row>
           <v-col lg="3" md="3" sm="12">
@@ -39,3 +38,53 @@
     </v-container>
   </v-content>
 </template>
+
+<script>
+import axios from 'axios'
+export default {
+  name: 'Subscribe',
+  components: {},
+  methods: {
+    encode(data) {
+      return Object.keys(data)
+        .map(
+          (key) => `${encodeURIComponent(key)}=${encodeURIComponent(data[key])}`
+        )
+        .join('&')
+    },
+    handleSubmit() {
+      const axiosConfig = {
+        header: { 'Content-Type': 'application/x-www-form-urlencoded' }
+      }
+      axios
+        .post(
+          '/',
+          this.encode({
+            'form-name': 'contactus',
+            ...this.form
+          }),
+          axiosConfig
+        )
+        .then((data) => {
+          this.$store.commit(
+            'alert/setAlert',
+            { message: 'Thank you for subscribing!', type: 'success' },
+            { root: true }
+          )
+          this.$router.push('/')
+        })
+        .catch((e) => {
+          this.$store.commit(
+            'alert/setAlert',
+            {
+              message: 'Error submitting your request, please try again.',
+              type: 'warning'
+            },
+            { root: true }
+          )
+          this.$router.push('/subscribe')
+        })
+    }
+  }
+}
+</script>

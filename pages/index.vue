@@ -1,5 +1,6 @@
 <template>
   <v-content>
+    <Alert />
     <h1 class="pt-6">New Releases</h1>
     <v-container grid-list-md fluid class="px-2">
       <v-row
@@ -31,10 +32,12 @@ h1 {
 
 <script>
 import Preview from '../components/Preview'
+import Alert from '../components/Alert'
 
 export default {
   components: {
-    Preview
+    Preview,
+    Alert
   },
   async asyncData() {
     const context = await require.context('~/content/blog', true, /\.md$/)
