@@ -32,3 +32,13 @@ Bon Appetit!
     <v-instructions-list title="Instructions" file-path="2020-01-11/pear-hazelnut-arugula-salad-info.json" json-key="instructions"> </v-instructions-list>
   </v-col>
 </v-row>
+
+<v-row>
+  <v-col lg="3" sm="12">
+    <v-ingredients-list title="Dressing Ingredients" file-path="2020-01-11/pear-hazelnut-arugula-salad-info.json" json-key="dressingIngredients"> </v-ingredients-list>
+  </v-col>
+  <v-col lg="9" sm="12">
+    <v-instructions-list title="Dressing Instructions" file-path="2020-01-11/pear-hazelnut-arugula-salad-info.json" json-key="dressingInstructions"> </v-instructions-list>
+  </v-col>
+</v-row>
+

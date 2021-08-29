@@ -34,5 +34,3 @@ Nevertheless, from the parents and grandmother's (admittedly biased) reactions, 
   <v-instructions-list title="Topping Instructions" file-path="2021-01-06/espresso-parmesan-creme-brulee-info.json" json-key="toppingInstructions"> </v-instructions-list>
 </v-col>
 </v-row>
-
-<p>Yogurt Tahini Sauce: <a href="https://www.myrecipes.com/recipe/yogurt-tahini-sauce"> </a></p>

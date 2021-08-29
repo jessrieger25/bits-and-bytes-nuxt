@@ -14,9 +14,9 @@ hero: lamb-cauliflower-stirfry.jpeg
 </v-row>
 <v-row>
   <v-col lg="3" sm="12">
-    <v-ingredients-list title="Ingredients" file-path=" 2021-07-25/lamb-cauliflower-stirfry.json.json" json-key="ingredients"> </v-ingredients-list>
+    <v-ingredients-list title="Ingredients" file-path=" 2021-07-25/lamb-cauliflower-stirfry.json" json-key="ingredients"> </v-ingredients-list>
   </v-col>
   <v-col lg="9" sm="12">
-    <v-instructions-list title="Instructions" file-path=" 2021-07-25/lamb-cauliflower-stirfry.json.json" json-key="instructions"> </v-instructions-list>
+    <v-instructions-list title="Instructions" file-path=" 2021-07-25/lamb-cauliflower-stirfry.json" json-key="instructions"> </v-instructions-list>
   </v-col>
 </v-row>
